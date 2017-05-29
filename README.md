@@ -1,7 +1,7 @@
 ## Weekly Deployment Updates  :pencil2:
 
-# Subhash
+# Subhash :person_with_blond_hair:
 
-# Sanjay
+# Sanjay :boy:
 
-# Meghana
+# Meghana :woman:
