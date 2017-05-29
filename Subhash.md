@@ -1,4 +1,4 @@
-# :bulb: May Deployments :white_check_mark:
+:bulb: # May Deployments :white_check_mark:
 
 May 2 nd : ENV-deployment Req_406221_Mandatory Corporate Actions_Fix4 - e2e02
 
